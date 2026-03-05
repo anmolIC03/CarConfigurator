@@ -1,4 +1,5 @@
 # AI-Powered 3D Car Configurator
+![Project Screenshot / GIF](https://github.com/anmolIC03/CarConfigurator/blob/main/ezgif-54a87f0c9cc104d3.gif)
 
 An interactive 3D vehicle customization tool built in Unity. This project leverages the **Google Gemini Generative AI** to dynamically generate custom automotive color palettes based on user text prompts, instantly applying them to the car's body and rims.
 
